@@ -36,3 +36,4 @@ This can be adapted for weighted graphs by replacing any $1$ entry with the edge
 
 Another matrix commonly associated to a graph is the *Laplacian $L$*, defined as $L=D-A$, where $D$ is the diagonal matrix with $D_{i,i}$ as the degree of the vertex $v_i$ and $D_{i,j}=0$ for $i\neq j$, and $A$ is the adjacency matrix.
 
+*The content is loosely based on the lecture notes provided by Prof. Reinert.*
